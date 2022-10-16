@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NDK Json Array Sort</string>
+    <string name="sort">Sort</string>
+    <string name="add_person">Add Person</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_dob">Enter DOB</string>
+    <string name="name">Name</string>
+    <string name="dob">Date of Birth</string>
+</resources>
