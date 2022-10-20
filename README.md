@@ -7,10 +7,10 @@ written in Kotlin and C++.
 Credit:
 Lohmann, N. (2022). JSON for Modern C++ (Version 3.11.2) [Computer software]. https://github.com/nlohmann
 
-![Screenshot#1](screens/screen1.jpg)
+![Screenshot#1](screens/Screenshot_20221021_020857.png)
 
-![Screenshot#2](screens/screen2.jpg)
+![Screenshot#2](screens/Screenshot_20221021_020931.png)
 
-![Screenshot#3](screens/screen3.jpg)
+![Screenshot#3](screens/Screenshot_20221021_021003.png)
 
-![Screenshot#4](screens/screen4.jpg)
+![Screenshot#4](screens/Screenshot_20221021_021036.png)
